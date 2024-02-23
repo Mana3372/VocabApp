@@ -1,0 +1,8 @@
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\VocabApp\Vocabulary\bin\x64\VocabApp\Vocabulary.exe.config
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\VocabApp\Vocabulary\bin\x64\VocabApp\Vocabulary.exe
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\VocabApp\Vocabulary\obj\x64\VocabApp\Vocabulary.csproj.AssemblyReference.cache
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\VocabApp\Vocabulary\obj\x64\VocabApp\Vocabulary.Form1.resources
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\VocabApp\Vocabulary\obj\x64\VocabApp\Vocabulary.Properties.Resources.resources
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\VocabApp\Vocabulary\obj\x64\VocabApp\Vocabulary.csproj.GenerateResource.cache
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\VocabApp\Vocabulary\obj\x64\VocabApp\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\VocabApp\Vocabulary\obj\x64\VocabApp\Vocabulary.exe
