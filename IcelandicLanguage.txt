@@ -1,0 +1,19 @@
+Halló:Hello
+Takk:Thank you
+Já:Yes
+Nei:No
+Bless:Please
+Ég skil:I understand
+Ég skil ekki:I don't understand
+Hvar:Where
+Hvenær:When
+Hver:Who
+Flugvél:Airplane
+Hótel:Hotel
+Verslun:Shop
+Miðbær:City center
+Matur:Food
+Vatn:Water
+Mjólk:Milk
+Kaffi:Coffee
+Penningar:Money
