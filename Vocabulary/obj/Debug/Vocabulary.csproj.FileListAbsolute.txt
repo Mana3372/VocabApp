@@ -1,0 +1,10 @@
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\bin\Debug\Vocabulary.exe.config
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\bin\Debug\Vocabulary.exe
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\bin\Debug\Vocabulary.pdb
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\obj\Debug\Vocabulary.csproj.AssemblyReference.cache
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\obj\Debug\Vocabulary.Form1.resources
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\obj\Debug\Vocabulary.Properties.Resources.resources
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\obj\Debug\Vocabulary.csproj.GenerateResource.cache
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\obj\Debug\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\obj\Debug\Vocabulary.exe
+C:\Users\pafleischer\Documents\Projekte\C#_uebung\Vocabulary\Vocabulary\obj\Debug\Vocabulary.pdb
